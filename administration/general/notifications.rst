@@ -65,7 +65,7 @@ Options marked with [D] can be disabled selectively. The rest only when the whol
 Gmail
 =====
 
-Gmail can be used in notifications. If you have 2FA enabled for the account, then is necessary to create an `app password <https://myaccount.google.com/apppasswords>`_. Please use the following settings::
+Gmail can be used in notifications. If you have 2FA enabled for the account, then is necessary to create an `app password <https://myaccount.google.com/signinoptions/two-step-verification>`_. Please use the following settings::
 
 	SMTP Server: smtp.gmail.com
 	SMTP Port: 587
